@@ -1,0 +1,25 @@
+   Keys to sysmbols used 
+
+ * = white space
+
+ Blank space = black space
+
+ WP = White pawn &  BP = Black pawn
+
+ WN = White Knight & BN = Black Knight
+
+ WB = White Bishop & BB = Black Bishop
+
+ WR = White Rook & BR = Black Rook
+
+ WQ = White Queen & BQ = Black Queen
+
+ WK = White King & BK =Black King
+
+Rule for move is :
+
+Move by selecting row & column to another valid location using row & column
+
+Valid location is checked by the code , invalid location is entered then user is prompted to enter once again
+
+Alos hopefully my code works :D
